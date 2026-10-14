@@ -1,0 +1,9 @@
+#BlueJ class context
+#Wed Oct 14 12:09:20 CST 2026
+comment0.target=Parada
+comment0.text=Representa una parada que puede pertenecer a varias rutas.
+comment1.params=pCodigo pNombre
+comment1.target=Parada(java.lang.String, java.lang.String)
+comment2.target=java.lang.String getNombre()
+comment3.target=java.lang.String toString()
+numComments=4

@@ -1,0 +1,16 @@
+#BlueJ class context
+#Wed Oct 14 12:09:16 CST 2026
+comment0.target=Bus
+comment1.params=pPlaca pCapacidad
+comment1.target=Bus(java.lang.String, int)
+comment2.params=pRuta
+comment2.target=void asignarRuta(Ruta)
+comment3.params=pPersona
+comment3.target=void cobrarPasaje(Persona)
+comment4.target=java.lang.String consultarNombreRuta()
+comment5.target=java.lang.String getCodigo()
+comment6.target=int getCantidadBuses()
+comment7.params=pPersona
+comment7.target=double calcularMonto(Persona)
+comment8.target=java.lang.String toString()
+numComments=9
